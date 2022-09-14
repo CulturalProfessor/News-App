@@ -2,7 +2,7 @@
 console.log("hey");
 newsAccordion = document.getElementById("newsAccordion");
 //news api parameters
-source = "the-hindu";
+source = "bbc-news";
 let apiKey = "86e178c78bae474abaff2bac26f47e84";
 //ajax request
 const xhr = new XMLHttpRequest();
